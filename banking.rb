@@ -54,10 +54,3 @@ accounts.each do |account|
 
 
 end
-
-
-
-
-
-
-
